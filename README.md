@@ -1,4 +1,7 @@
-# test coverage for  [cordova-plugin-touch-id (v3.2.0)](https://github.com/EddyVerbruggen/cordova-plugin-touch-id#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-touch-id.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-touch-id) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-touch-id.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-touch-id)
+# npmtest-cordova-plugin-touch-id
+
+#### basic test coverage for  [cordova-plugin-touch-id (v3.2.0)](https://github.com/EddyVerbruggen/cordova-plugin-touch-id#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-touch-id.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-touch-id) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-touch-id.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-touch-id)
+
 #### Scan the fingerprint of your user with the TouchID sensor (iPhone 5S, iPhone 6(S), ..)
 
 [![NPM](https://nodei.co/npm/cordova-plugin-touch-id.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-plugin-touch-id)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-touch-id/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-touch-id/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-touch-id/build/coverage.html/index.html)
 
@@ -83,7 +86,8 @@
         "url": "git+https://github.com/EddyVerbruggen/cordova-plugin-touch-id.git"
     },
     "scripts": {},
-    "version": "3.2.0"
+    "version": "3.2.0",
+    "bin": {}
 }
 ```
 
